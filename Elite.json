@@ -1,0 +1,19 @@
+{
+  "code": 200,
+  "message": "Success",
+  "data": {
+    "subStat": "2",
+    "plan": "Premium Plan",
+    "cta": "Renew now",
+    "valdTxt": "Valid till: 23rd August, 2026",
+    "pvend": "JUSPAY",
+    "sectionTile": {
+      "id": "10447",
+      "lyt": "TS1",
+      "acttxt": "",
+      "text": "Top 10"
+    },
+    "valEp": 1787453568000,
+    "mdActv": false
+  }
+}
