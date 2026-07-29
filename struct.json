@@ -1,0 +1,103 @@
+{
+  "code": 200,
+  "message": "Home Page Layout",
+  "data": {
+    "cid": "cluster1",
+    "sections": [
+      {
+        "id": "505",
+        "lyt": "F1",
+        "atoScrl": false,
+        "btnover": "Watch Now"
+      },
+      {
+        "id": "507",
+        "lyt": "TS1",
+        "acttxt": null,
+        "text": "Top 10 on Story TV",
+        "sBgG": false,
+        "sBgImg": null
+      },
+      {
+        "id": "223",
+        "lyt": "G1",
+        "acttxt": "See All",
+        "text": "Love Affairs",
+        "sBgG": false,
+        "sBgImg": null
+      },
+      {
+        "id": "509",
+        "lyt": "G1",
+        "acttxt": "See All",
+        "text": "Binge Worthy Series",
+        "sBgG": false,
+        "sBgImg": null
+      },
+      {
+        "id": "512",
+        "lyt": "G1",
+        "acttxt": "See All",
+        "text": "Trending Now",
+        "sBgG": false,
+        "sBgImg": null
+      },
+      {
+        "id": "755",
+        "lyt": "G1",
+        "acttxt": null,
+        "text": "Dailies - Daily New Episodes",
+        "sBgG": false,
+        "sBgImg": null
+      },
+      {
+        "id": "514",
+        "lyt": "TS1",
+        "acttxt": null,
+        "text": "Top 10 New Releases",
+        "sBgG": false,
+        "sBgImg": null
+      },
+      {
+        "id": "515",
+        "lyt": "G1",
+        "acttxt": "See All",
+        "text": "CEO Billionaire",
+        "sBgG": false,
+        "sBgImg": null
+      },
+      {
+        "id": "516",
+        "lyt": "G1",
+        "acttxt": "See All",
+        "text": "Just Launched",
+        "sBgG": false,
+        "sBgImg": null
+      },
+      {
+        "id": "521",
+        "lyt": "G1",
+        "acttxt": "See All",
+        "text": "Revenge & Dhoka",
+        "sBgG": false,
+        "sBgImg": null
+      },
+      {
+        "id": "519",
+        "lyt": "G1",
+        "acttxt": "See All",
+        "text": "Top International Dramas",
+        "sBgG": false,
+        "sBgImg": null
+      },
+      {
+        "id": "522",
+        "lyt": "AD1",
+        "acttxt": null,
+        "text": "All Dramas",
+        "sBgG": false,
+        "sBgImg": null
+      }
+    ]
+  }
+}

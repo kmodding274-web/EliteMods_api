@@ -1,0 +1,261 @@
+{
+  "code": 200,
+  "message": "Shows List",
+  "data": {
+    "content": [
+      {
+        "id": "3531",
+        "title": "Intern vs CEO",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/Intern_vs_CEO/CV/STV/360_480_Intern_Vs_Ceo.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Popular",
+            "Trending"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "51",
+          "watchedEpisodes": null,
+          "vc": "10.1M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3531/126782/419cdfdd/master.m3u8?hdnts=exp=1785356605~hmac=a237ddd6680940b80c9353008c4b0f62529f64911e70614968f76b16d3b41301"
+      },
+      {
+        "id": "3596",
+        "title": "Waris Ka Karishma",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/Waris_Ka_Karishma/CV/STV/360_480_Waris_Ka_Karishma.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Hidden Identity",
+            "Billionaire",
+            "Romance",
+            "Lost Heir",
+            "Accidental Marriage",
+            "Rich Girl Poor Boy",
+            "Betrayal",
+            "Billionaire Family",
+            "CEO",
+            "Family Drama",
+            "Corporate Drama",
+            "Ex Regret",
+            "Secret Identity",
+            "Rags to Riches",
+            "Power Struggle",
+            "Business Empire",
+            "Love Triangle",
+            "Marriage",
+            "Revenge"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "44",
+          "watchedEpisodes": null,
+          "vc": "558.8K"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3596/128751/ac782265/master.m3u8?hdnts=exp=1785356605~hmac=e33cf359b2f70a2ab0288788a3a19071f07fe992eb8e3e17819d55346c991fc9"
+      },
+      {
+        "id": "2784",
+        "title": "Hanuman Avtar",
+        "imageUrl": "https://cdn.storytv.asia/ta/June_2026/Hanuman_Avtar/CV/STV/360_480_Hanuman_Avtar.webp",
+        "metadata": {
+          "genre": "Supernatural",
+          "tags": [
+            "Supernatural",
+            "Devotion",
+            "Divine Blessing",
+            "Family Drama",
+            "Faith",
+            "Emotional",
+            "Spiritual",
+            "Hidden Advantage"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "48",
+          "watchedEpisodes": null,
+          "vc": "10.5M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2784/113261/fb83faca/master.m3u8?hdnts=exp=1785356605~hmac=bfe5e8cc2880cd6bde894756e5450ae6734e9eb994e80259d31cfb8cfa23dc51"
+      },
+      {
+        "id": "3352",
+        "title": "Roadside Healer King",
+        "imageUrl": "https://cdn.storytv.asia/ta/Jan_2026/Roadside_Healer_King/CV/STV/360_480_Roadside_Healer_King.webp",
+        "metadata": {
+          "genre": "Supernatural",
+          "tags": [
+            "\"Supernatural Hidden Identity Romance Reunited Lovers Power Struggle Destiny / Fate\""
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "40",
+          "watchedEpisodes": null,
+          "vc": "20.8M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3352/116794/916e75d1/master.m3u8?hdnts=exp=1785356605~hmac=7b1285220a78ebe83fe581582270673bcde886eabc9066c04416040346e2874c"
+      },
+      {
+        "id": "3323",
+        "title": "Trillionaire Aashiq Aur Badla",
+        "imageUrl": "https://cdn.storytv.asia/ta/June_2026/Trillionaire_Aashiq_Aur_Badla/CV/STV/360_480_Trillionaire_Aashiq_Aur_Badla.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Rags"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "54",
+          "watchedEpisodes": null,
+          "vc": "27M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3323/111751/056b1ca5/master.m3u8?hdnts=exp=1785356605~hmac=e90f8d94f4ed319d86e6bddbe49128be740c52a3baee8fa37770b66d77b87128"
+      },
+      {
+        "id": "3340",
+        "title": "The Hacker King: Origin",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/The_Hacker_King_origin/CV/STV/360_480_Hacker King_origin.webp",
+        "metadata": {
+          "genre": "Alpha Male",
+          "tags": [
+            "Public Humiliation",
+            "Betrayal"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "52",
+          "watchedEpisodes": null,
+          "vc": "8.7M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3340/127586/21010491/master.m3u8?hdnts=exp=1785356605~hmac=3b499e876843ca2d3fb0cd7eb80db63e387228d89b61a284b2de337a0091b0a9"
+      },
+      {
+        "id": "3325",
+        "title": "Saaya One Man Army",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/Saaya/CV/STV/360_480_Saaya_one_man_army.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Hidden Identity",
+            "Power Struggle",
+            "Workplace Romance"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "46",
+          "watchedEpisodes": null,
+          "vc": "7.7M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3325/124321/b6860f06/master.m3u8?hdnts=exp=1785356605~hmac=24444e524b4ed395d77824377f44d39d9e89bba1f1c7e42ee0c8617b38eddd24"
+      },
+      {
+        "id": "3354",
+        "title": "Samundar ka Tycoon",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/Samundar_Ka_Tycoon/CV/STV/360_480_Samundar_ka_Tycoon.webp",
+        "metadata": {
+          "genre": "Divorce",
+          "tags": [
+            "Hidden Billionaire Heir  Fake Rich vs Real Rich  Gold-Digger Girlfriend  Mistaken Identity"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "48",
+          "watchedEpisodes": null,
+          "vc": "12.7M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3354/119011/b3d66a77/master.m3u8?hdnts=exp=1785356605~hmac=7f4e632948110ecf72c5e86bec89c6152abb2aff9017aeee1212a2940b97bbab"
+      },
+      {
+        "id": "3269",
+        "title": "Do Shaadi, Ek Dulha",
+        "imageUrl": "https://cdn.storytv.asia/ta/June_2026/Do_Shaadi_Ek_Dulha/CV/STV/360_480_Do_Shaadi_Ek_Dulha.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Forced Marriage Escape",
+            "Alpha CEO",
+            "Power Couple",
+            "Family Drama",
+            "Betrayal & Redemption Love After Divorce",
+            "Identity Reveal",
+            "Corporate Romance",
+            "Strong Female Lead"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "52",
+          "watchedEpisodes": null,
+          "vc": "21M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3269/107723/b0336cd9/master.m3u8?hdnts=exp=1785356605~hmac=2a4e259ba297e9b1e2bab0eb637d828076680ecdfd866397fbb05599828921fc"
+      },
+      {
+        "id": "2923",
+        "title": "Delivery Boy Ki Samay Yatra",
+        "imageUrl": "https://cdn.storytv.asia/ta/June_2026/Delivery_Boy_Ki_Samay_Yatra/CV/STV/360_480_Delivery_Boy_Ki_Samay_Yatra.webp",
+        "metadata": {
+          "genre": "Rags to Riches",
+          "tags": [
+            "Rags to Riches",
+            "Second Chance",
+            "Strong Female Lead"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "45",
+          "watchedEpisodes": null,
+          "vc": "10.1M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2923/115981/f3dde98c/master.m3u8?hdnts=exp=1785356605~hmac=18e6b64a4404c72f27f112dfa108f5e830a8016d43bc0e7fd02cc13e01f3008f"
+      }
+    ],
+    "pageable": {
+      "pageNumber": 0,
+      "pageSize": 10,
+      "sort": {
+        "empty": true,
+        "sorted": false,
+        "unsorted": true
+      },
+      "offset": 0,
+      "paged": true,
+      "unpaged": false
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 10,
+    "size": 10,
+    "number": 0,
+    "sort": {
+      "empty": true,
+      "sorted": false,
+      "unsorted": true
+    },
+    "first": true,
+    "numberOfElements": 10,
+    "empty": false
+  }
+}

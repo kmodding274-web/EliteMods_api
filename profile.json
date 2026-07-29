@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "message": "Success",
+  "data": {
+    "id": 132610509,
+    "lout": false,
+    "cncl": false,
+    "shimgurl": "https://cdn.storytv.asia/wa/prod/sharelink2.webp",
+    "shrmsg": "🎬 Story TV brings you new drama shows daily – all in 📺 Full HD and 🚫 100% Ad-Free!\n\n🎁 Start your Free Trial now 👉 https://app.storytv.asia",
+    "prflShw": {
+      "id": "5",
+      "lyt": "CW1",
+      "acttxt": "",
+      "text": "Continue Watching"
+    }
+  }
+}

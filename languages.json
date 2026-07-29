@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "message": "App Language Data",
+  "data": {
+    "languages": [
+      {
+        "langId": 2,
+        "title": "Hindi",
+        "thumbnailUrl": "https://cdn.storytv.asia/ta/lang/test/hindi.webp",
+        "isPreSelected": true,
+        "alphabetUrl": "https://cdn.storytv.asia/ta/lang/test/hindi_char_ON.webp"
+      },
+      {
+        "langId": 6,
+        "title": "Telugu",
+        "thumbnailUrl": "https://cdn.storytv.asia/ta/lang/test/telugu.webp",
+        "isPreSelected": false,
+        "alphabetUrl": "https://cdn.storytv.asia/ta/lang/test/telugu_char_OFF.webp"
+      },
+      {
+        "langId": 7,
+        "title": "Tamil",
+        "thumbnailUrl": "https://cdn.storytv.asia/ta/lang/test/tamil.webp",
+        "isPreSelected": false,
+        "alphabetUrl": "https://cdn.storytv.asia/ta/lang/test/tamil_char_OFF.webp"
+      },
+      {
+        "langId": 8,
+        "title": "Kannada",
+        "thumbnailUrl": "https://cdn.storytv.asia/ta/lang/test/kannada.webp",
+        "isPreSelected": false,
+        "alphabetUrl": "https://cdn.storytv.asia/ta/lang/test/kannada_char_OFF.webp"
+      },
+      {
+        "langId": 9,
+        "title": "Malayalam",
+        "thumbnailUrl": "https://cdn.storytv.asia/ta/lang/test/malayalam.webp",
+        "isPreSelected": false,
+        "alphabetUrl": "https://cdn.storytv.asia/ta/lang/test/malayalam_char_OFF.webp"
+      }
+    ]
+  }
+}
