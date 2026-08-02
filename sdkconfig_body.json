@@ -1,0 +1,22 @@
+{
+  "query_params": {
+    "os": "ANDROID",
+    "app_id": "YK7OBFDSPNTUQ9KQUQHSO4NO",
+    "sdk_ver": "140900",
+    "unique_id": "20808db6-6c1d-4085-b8d2-dd72813e7abe",
+    "device_ts": "1785691220921",
+    "device_tz_offset": "19800000",
+    "app_ver": "14",
+    "moe_push_ser": "FCM",
+    "app_version_name": "1.2.4",
+    "moe_gaid": "540cfbe8-e63b-47dc-85ac-45b4bd30a35a",
+    "device_tz": "Asia/Calcutta",
+    "push_id": "dSOIyoc3SRW7ucFwCdVtlg:APA91bE7a52SctDmjMuVhPE6QatIWTjg9H0abNDgIdxeMOWTDhnRXEukQfhPI4bbAMNTepKgxB3V9EYN7cVN72vL4X8d1MYtOyjUHrGnHtbeB6Eql9pIsg4",
+    "os_ver": "36",
+    "model": "I2407",
+    "networkType": "wifi",
+    "manufacturer": "vivo",
+    "device_unique_id": "4fb73688-e022-4445-9995-dec6d9591000",
+    "moe_push_opted": "false"
+  }
+}
