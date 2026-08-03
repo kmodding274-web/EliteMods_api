@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "message": "Success",
+  "data": {
+    "id": 13273025,
+    "lout": false,
+    "cncl": false,
+    "shimgurl": "https://cdn.storymax.app/wa/prod/stm/sharelink.webp",
+    "shrmsg": "🎬 Story MAX brings you new drama shows daily – all in 📺 Full HD and 🚫 100% Ad-Free!\n\n🎁 Start your Free Trial now 👉 https://app.storymax.app",
+    "prflShw": {
+      "id": "10455",
+      "lyt": "G1",
+      "acttxt": "",
+      "text": "Continue Watching"
+    }
+  }
+}
